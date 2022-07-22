@@ -1,0 +1,40 @@
+{
+  "doctor": [
+    {
+      "id": "1",
+      "name": "Mugil",
+      "hospital": "nirmal clinic",
+      "specialization": "heart",
+      "salary": "234222",
+      "details": "kjdhfiugsdbhjfgsuydgfvbhjszf"
+    },
+    {
+      "id": "555",
+      "name": "vicky",
+      "hospital": "Vcare",
+      "specialization": "haircare",
+      "salary": "435435",
+      "details": "sdvfghfgb"
+    },
+    {
+      "id": "VrlxHzd",
+      "name": "",
+      "hospital": "",
+      "specialization": "",
+      "salary": "",
+      "details": ""
+    }
+  ],
+  "hospital": [
+    {
+      "name": "",
+      "address": "",
+      "id": 1
+    },
+    {
+      "name": "",
+      "address": "",
+      "id": 2
+    }
+  ]
+}
